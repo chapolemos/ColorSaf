@@ -23,6 +23,7 @@ pod 'ColorSaf'
 ## Author
 
 chapolemos, gsvieira08@gmail.com
+vBryann
 
 ## License
 
